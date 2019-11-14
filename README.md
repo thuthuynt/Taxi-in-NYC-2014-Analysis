@@ -1,6 +1,2 @@
-echo "# my_report" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin git@github.com:thuthuynt/my_report.git
-git push -u origin master
+An overview about the dataset provided in the link below:
+https://www.kaggle.com/kentonnlp/2014-new-york-city-taxi-trips
